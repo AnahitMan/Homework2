@@ -1,0 +1,57 @@
+h1{ 
+	border-color: rgba(23, 45, 81, 55); 
+	line-height: 80px;
+	text-align: center;
+
+}
+	body{
+		background-color: #ddca9e;
+	}
+
+    div{
+		
+		list-style-position: right;
+		text-underline-position: center;
+		height: 130px;
+		margin-bottom: 90px;
+		border-style: ridge;
+		border-width: 10px;
+		border-color: #ddcb6e;
+
+	}
+	.left{
+		float: left;
+		width: 45%;
+		margin-right: 3%;
+		background-color: #ddca7e; 
+		text-align: center;
+	}
+	.right{
+		float: right;
+		width: 45%;
+		margin-right: 3%;
+		background-color: #ddca7e; 
+		text-align: center;
+
+	}
+
+
+	title{height: 120px;
+
+	}
+	
+	h2{
+		color: rgb(33, 60, 97);
+	}
+	
+p, br{
+	border-color: rgba(23, 45, 81, 55); 
+	line-height: 19px;
+	text-align: left;
+	float: right;
+}
+
+li:hover{
+	cursor: pointer;
+	font-size: 25px;
+}
